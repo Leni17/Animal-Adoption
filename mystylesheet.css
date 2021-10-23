@@ -1,0 +1,101 @@
+body{
+  padding: 0;
+  margin: 0;
+  border: 0;
+  font-family: sans-serif;
+}
+.tophead1{
+  width: 100%;
+  height: 40px;
+  background-color: #585757;
+  margin: 0;
+}
+.navtab{
+  background: #ff4622;
+  margin: 0;
+  text-align: right;
+}
+.navtab >li{
+  display: inline;
+  margin-right: 20px;
+}
+.navtab > li > a{
+  display: inline-block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 18px;
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+.navtab > li > img{
+  width: 60px;
+  border: 0;
+  padding: 0;
+  float: left;
+  margin-top: 10px;
+}
+
+.navtab li a:hover{
+  background-color: #fff;
+  color: #585757;
+  font-weight: bolder;
+}
+.bigbanner1{
+  width: 100%;
+  height: 300px;
+  background-image: url("http://co.shelby.oh.us/wp-content/uploads/2016/03/lineofpets.jpg");
+  padding-top: 100px;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bigbanner1 h1{
+  margin-top: 0;
+  text-align: center;
+  font-size: 70px;
+  color: black;
+  font-weight: bold;
+}
+.bigbanner1 h3{
+  margin-top: 0;
+  text-align: center;
+  font-size: 30px;
+  font-weight: lighter;
+  color: black;
+}
+.containergrid{
+  text-align: center;
+  font-size: 30px;
+}
+  .menu, .footerbar{
+    padding:0px
+    color: black;
+    background-color: red;
+    overflow: hidden;
+}
+.bigbanner2{
+  width: 100%;
+  height: 300px;
+  background-image:url("https://cdn.quotesgram.com/img/19/32/109617133-12-30-Adopt-with-Quote.jpg");
+  padding-top: 100px;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bigbanner2 h1{
+  <br>
+  margin-bottom; 0;
+  text-align; center;
+  color: black;
+  font-size: 80px;
+  text-position: bottom;
+  
+}
+.containergrid3{
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
